@@ -1,0 +1,31 @@
+.pabsolute {
+    position: absolute;
+}
+
+.container div {
+    width: 120px;
+    height: 120px;
+}
+.red-square {
+    background-color: #f0002c;
+}
+.pink-square {
+    background-color: #e0abd8;
+    top: 60px;
+    left: 60px;
+}
+.yellow-square {
+    background-color: #f0c800;
+    top: 120px;
+    left: 120px;
+}
+.green-square {
+    background-color: #32a852;
+    top: 180px;
+    left: 180px;
+}
+.blue-square {
+    background-color: #0486d6;
+    top: 240px;
+    left: 240px;
+}
